@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @cybsafe
+- 🔭 I’m currently working @cybsafe
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on dex projects
 - 📫 How to reach me: hi@pedroserrudo.com
