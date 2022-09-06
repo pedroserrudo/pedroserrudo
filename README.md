@@ -13,7 +13,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroserrudo&layout=compact&theme=radical&count_private=true))
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroserrudo&theme=radical&layout=compact)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedroserrudo&theme=radical) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroserrudo&count_private=true&theme=radical&show_icons=true)
+
 
 
 
