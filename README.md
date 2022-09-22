@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working @cybsafe
-- 🌱 I’m currently learning Solidity
-- 👯 I’m looking to collaborate on dex projects
+- 🧑‍💻 Currently working @cybsafe
+- 🗺️ Living between 🇵🇹Portugal and 🇬🇷Greece
+- 🌱 Learning Solidity
 - 📫 How to reach me: hi@pedroserrudo.com
 - ⚡ Fun fact: earth is not flat
 
