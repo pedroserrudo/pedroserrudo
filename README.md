@@ -3,7 +3,7 @@
 - 🧑‍💻 Currently working @cybsafe
 - 🗺️ Living between 🇵🇹Portugal and 🇬🇷Greece
 - 🌱 Learning AI 🤖
-- 📫 How to reach me: hi@pedroserrudo.com
+- 📫 How to reach me: pedroserrudo.com
 - ⚡ Fun fact: earth is not flat
 
 
